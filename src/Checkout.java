@@ -5,7 +5,7 @@ import java.util.Vector;
  */
 public class Checkout {
     private Vector<DessertItem> lists;
-    protected final double taxRate;
+    private final double taxRate;
 
     public Checkout() {
         lists = new Vector<>();
