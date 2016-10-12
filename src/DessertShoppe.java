@@ -2,7 +2,7 @@
  * Created by qiqi on 2016/10/11.
  */
 public class DessertShoppe {
-    public static final double TAX_RATE = 6.5;
+    protected static final double TAX_RATE = 6.5;
     public static final String storeName = "M & M Dessert Shoppe";
     public int maximumSizeOfItemName = 50;
     public int widthOfCost = 8;
